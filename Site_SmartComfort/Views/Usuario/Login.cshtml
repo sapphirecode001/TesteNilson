@@ -16,13 +16,13 @@
         </form><br>
         <a class="Esqueceu" href="#">Esqueceu a sua Senha?</a>
         <button type="submit">Entrar</button>
-        <p>Deseja Entrar Como Pessoa Física?</p>
+        <p>Deseja Entrar Como Pessoa Juridica?</p>
         <a class="clique" href="#">Clique Aqui</a></p>
     </div>
     <div class="welcome-section">
         <h2>Olá, Seja Bem-Vindo</h2>
         <p>Insira os dados de sua empresa <br> e comece a jornada conosco</p>
-        <button onclick="location.href='@Url.Action("CadastroPF", "Usuario")'">Cadastrar</button>
+            <button><a asp-area="" asp-controller="Usuario" asp-action="CadastrarPF">Cadastrar</a></button>
     </div>
 </div>
 </div>

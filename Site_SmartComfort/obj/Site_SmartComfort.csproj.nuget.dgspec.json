@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Site_SmartComfort.csproj": {}
+    "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj": {}
   },
   "projects": {
-    "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Site_SmartComfort.csproj": {
+    "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Site_SmartComfort.csproj",
+        "projectUniqueName": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj",
         "projectName": "Site_SmartComfort",
-        "projectPath": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Site_SmartComfort.csproj",
-        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\obj\\",
+        "projectPath": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj",
+        "packagesPath": "C:\\Users\\3mod\\.nuget\\packages\\",
+        "outputPath": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\3mod\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

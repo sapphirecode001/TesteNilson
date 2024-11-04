@@ -9,67 +9,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Site_SmartComfort
 build_property.RootNamespace = Site_SmartComfort
-build_property.ProjectDir = F:\SapphireCode_Asp_Net\E-Commerce-Asp.Net-main\Site_SmartComfort\
+build_property.ProjectDir = F:\3A-MODULAR\TCC GRUPO JOAO\ASP NET COM BRANCH\corinthians\TesteNilson\Site_SmartComfort\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = F:\SapphireCode_Asp_Net\E-Commerce-Asp.Net-main\Site_SmartComfort
+build_property.MSBuildProjectDirectory = F:\3A-MODULAR\TCC GRUPO JOAO\ASP NET COM BRANCH\corinthians\TesteNilson\Site_SmartComfort
 build_property._RazorSourceGeneratorDebug = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Favoritos/Favoritos.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Favoritos/Favoritos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmF2b3JpdG9zXEZhdm9yaXRvcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Home/Index.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Home/SobreNos.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Home/SobreNos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTb2JyZU5vcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Produto/IndexProdutos.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Produto/IndexProdutos.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xJbmRleFByb2R1dG9zLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Produto/Produto.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Produto/Produto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xQcm9kdXRvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Shared/Error.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Usuario/CadastrarPF.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Usuario/CadastrarPF.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYWRhc3RyYXJQRi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Usuario/CadastrarPJ.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Usuario/CadastrarPJ.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDYWRhc3RyYXJQSi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Usuario/Login.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Usuario/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Usuario/Perfil.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Usuario/Perfil.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xQZXJmaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/_ViewImports.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/_ViewStart.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[F:/SapphireCode_Asp_Net/E-Commerce-Asp.Net-main/Site_SmartComfort/Views/Shared/_Layout.cshtml]
+[F:/3A-MODULAR/TCC GRUPO JOAO/ASP NET COM BRANCH/corinthians/TesteNilson/Site_SmartComfort/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-k0n2lwggb0
