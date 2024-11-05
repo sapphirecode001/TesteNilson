@@ -3,64 +3,40 @@
   "WorkspaceRootPath": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\views\\usuario\\cadastrarpf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\cadastrarpf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\wwwroot\\css\\cadastropj.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\cadastropj.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\wwwroot\\css\\cadastro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\cadastro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\wwwroot\\css\\cadastropj.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\cadastropj.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\wwwroot\\css\\perfil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\perfil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\views\\usuario\\cadastrarpf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\cadastrarpf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\views\\usuario\\cadastrarpj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\cadastrarpj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\models\\pf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\models\\pf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\3a-modular\\tcc grupo joao\\asp net com branch\\corinthians\\testenilson\\site_smartcomfort\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,131 +46,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Models\\Usuario.cs",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\Usuario.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:54.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Models\\ErrorViewModel.cs",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:57.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "cadastroPJ.css",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-17T19:48:51.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "cadastro.css",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\cadastro.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\cadastro.css",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\cadastro.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\cadastro.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-17T19:54:40.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Repository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Repository\\UsuarioRepository.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:02:56.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PF.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\PF.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Models\\PF.cs",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\PF.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Models\\PF.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:51.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Controllers\\ProdutoController.cs",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Controllers\\ProdutoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:58.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:59.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "login.css",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\login.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\login.css",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\login.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\login.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-27T17:05:19.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "style.css",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\style.css",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\style.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-27T17:06:09.94Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-13T15:16:43.608Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -204,61 +69,100 @@
               "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
               "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
               "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T19:48:04.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T15:16:43.608Z",
+              "WhenOpened": "2024-11-05T19:37:08.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "login.css",
+              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\login.css",
+              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\login.css",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAIwJkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T19:35:50.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CadastrarPF.cshtml",
               "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\CadastrarPF.cshtml",
               "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\CadastrarPF.cshtml",
               "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\CadastrarPF.cshtml",
               "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\CadastrarPF.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABQAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T19:46:54.679Z",
+              "WhenOpened": "2024-11-05T19:26:06.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\appsettings.json",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\appsettings.json",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\appsettings.json",
-              "RelativeToolTip": "Site_SmartComfort\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-17T19:45:01.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "perfil.css",
-              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\perfil.css",
-              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\perfil.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "cadastro.css",
+              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\cadastro.css",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\cadastro.css",
+              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\cadastro.css",
+              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\cadastro.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-14T21:25:45.916Z",
+              "WhenOpened": "2024-11-05T19:26:10.083Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CadastrarPJ.cshtml",
+              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\CadastrarPJ.cshtml",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\CadastrarPJ.cshtml",
+              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\CadastrarPJ.cshtml",
+              "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\CadastrarPJ.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-05T19:23:15.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cadastroPJ.css",
+              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
+              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
+              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-05T19:17:18.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\Models\\Usuario.cs",
+              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\Usuario.cs",
+              "RelativeToolTip": "Site_SmartComfort\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:05:54.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\3A-MODULAR\\TCC GRUPO JOAO\\ASP NET COM BRANCH\\corinthians\\TesteNilson\\Site_SmartComfort\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Site_SmartComfort\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:05:57.989Z"
             }
           ]
         }

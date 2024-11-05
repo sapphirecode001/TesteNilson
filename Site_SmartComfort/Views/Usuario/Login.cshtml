@@ -2,8 +2,14 @@
     ViewData["Title"] = "Login";
 }
 <link rel="stylesheet" href="~/css/login.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
 <div class="organizer">
 <div class="login-content">
+        <div class="welcome-section">
+        <h2>Olá, Seja Bem-Vindo</h2>
+        <p>Insira os dados de sua empresa <br> e comece a jornada conosco</p>
+            <button><a asp-area="" asp-controller="Usuario" asp-action="CadastrarPF">Cadastrar</a></button>
+    </div>
     <div class="login-section">
         <h2>
             Faça Seu Login
@@ -18,11 +24,6 @@
         <button type="submit">Entrar</button>
         <p>Deseja Entrar Como Pessoa Juridica?</p>
         <a class="clique" href="#">Clique Aqui</a></p>
-    </div>
-    <div class="welcome-section">
-        <h2>Olá, Seja Bem-Vindo</h2>
-        <p>Insira os dados de sua empresa <br> e comece a jornada conosco</p>
-            <button><a asp-area="" asp-controller="Usuario" asp-action="CadastrarPF">Cadastrar</a></button>
     </div>
 </div>
 </div>
