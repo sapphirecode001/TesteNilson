@@ -178,21 +178,39 @@ body{
     justify-content: space-evenly;
     margin-top: 4vw;
     align-items: center;
+    border: 1px solid red;
 }
 .icone_produto {
     width: 70px;
-    margin: 1vw;
     cursor: pointer;
 }
 
 .fundo_opcao {
     width: 100px;
-    height: 100px;
-    background: #184DAB;
-    border-radius: 60%;
+    height: 150px;
     cursor: pointer;
     text-align: center;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
+
+    .fundo_opcao div {
+        width: 100px;
+        height: 100px;
+        border-radius: 60%;
+        border: 1px solid red;
+        background: #184DAB;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .fundo_opcao div img {
+        width: 80px;
+        height: 80px;
+    }
 
 .icone_seta {
     width: 70px;
@@ -226,15 +244,15 @@ body{
 .fundo_solo {
     cursor: pointer;
     text-align: center;
-    width: 150px;
-    height: 240px;
+    width: 195px;
+    height: 312px;
     background: #FFFFFF;
     box-shadow: 4px 8px 4px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
 }
 .icone_produto_solo {
     margin-top: 1vw;
-    width: 110px;
+    width: 143px;
     cursor: pointer;
 }
 .preco{
