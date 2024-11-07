@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Site_SmartComfort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1304d5055f22bd4b1b70987c3a0062cab135aee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ed31325cb7ad20d9b170904cd1c45854804019a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Site_SmartComfort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Site_SmartComfort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
