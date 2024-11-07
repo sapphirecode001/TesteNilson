@@ -1,20 +1,10 @@
 ﻿
-function formatarCPF(cpf) {
-    // Formata o CPF no padrão: ***-456-***-**
-    return cpf.replace(/^(\d{3})(\d{3})(\d{3})(\d{2})$/, "***-$2-***-**");
-}
-function formatarEmail(email) {
-    // Mostra as 6 primeiras letras do email
-    let nome = email.split('@')[0];
-    let dominio = email.split('@')[1];
-    let parteOculta = "*".repeat(nome.length - 6);
-    return nome.substring(0, 6) + parteOculta + "@" + dominio;
-}
+$(document).ready(function () {
+    $('.telefone').mask('(00) 0000-0000');
+    $('.cpf').mask('000.000.000-00', { reverse: true });
+    $('.cnpj').mask('00.000.000/0000-00', { reverse: true });
+});
 
-function formatarTelefone(telefone) {
-    // Formata o telefone no padrão: (11) *****-1234
-    return telefone.replace(/^(\d{2})(\d{5})(\d{4})$/, "($1) *****-$3");
-}
 
 
 function openSenhaModal() {
