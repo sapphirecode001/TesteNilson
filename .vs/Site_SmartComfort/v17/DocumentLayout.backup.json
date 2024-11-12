@@ -1,98 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\",
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\views\\usuario\\cadastrarpj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\cadastrarpj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\views\\usuario\\cadastrarpf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\cadastrarpf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\wwwroot\\css\\cadastropj.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\cadastropj.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\wwwroot\\css\\cadastro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\cadastro.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\models\\pf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\models\\pf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\repository\\contract\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\viewmodels\\cadastropfviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\viewmodels\\cadastropfviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\wwwroot\\js\\perfil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\js\\perfil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\views\\usuario\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\views\\usuario\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\wwwroot\\css\\favoritos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\favoritos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\wwwroot\\css\\perfil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\css\\perfil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\perfil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|f:\\sapphirecode_asp_net\\e-commerce-asp.net-main\\site_smartcomfort\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\js\\perfil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\js\\perfil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\js\\mask\\jquery.mask.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\js\\mask\\jquery.mask.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\views\\produto\\indexprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\produto\\indexprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,296 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 21,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "site.css",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\site.css",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-13T15:42:49.195Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "style.css",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\style.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\style.css",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\style.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\style.css",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAUwDEAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-27T17:06:09.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "login.css",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\login.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\login.css",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\login.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\login.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-27T17:05:19.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:59.23Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProdutoController.cs",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Controllers\\ProdutoController.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Controllers\\ProdutoController.cs",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Controllers\\ProdutoController.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Controllers\\ProdutoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:58.555Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Models\\ErrorViewModel.cs",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:57.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Models\\Usuario.cs",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Models\\Usuario.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Models\\Usuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:54.206Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PF.cs",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Models\\PF.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Models\\PF.cs",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Models\\PF.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Models\\PF.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:05:51.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Repository\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Repository\\UsuarioRepository.cs",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Repository\\UsuarioRepository.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Repository\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:02:56.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IUsuarioRepository.cs",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Repository\\Contract\\IUsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Repository\\Contract\\IUsuarioRepository.cs",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Repository\\Contract\\IUsuarioRepository.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Repository\\Contract\\IUsuarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:04:23.358Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CadastroPFViewModel.cs",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\ViewModels\\CadastroPFViewModel.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\ViewModels\\CadastroPFViewModel.cs",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\ViewModels\\CadastroPFViewModel.cs",
-              "RelativeToolTip": "Site_SmartComfort\\ViewModels\\CadastroPFViewModel.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAsAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:04:01.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Controllers\\UsuarioController.cs",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Site_SmartComfort\\Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAHEAAAAAAAAAAAAAwDYAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T18:03:58.355Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "perfil.js",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\js\\perfil.js",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\js\\perfil.js",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\js\\perfil.js",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\js\\perfil.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-10-18T17:37:53.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Perfil.cshtml",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
-              "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAAALcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-18T17:36:58.417Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "favoritos.css",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\favoritos.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\favoritos.css",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\favoritos.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\favoritos.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-18T16:57:26.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "cadastro.css",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\cadastro.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\cadastro.css",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\cadastro.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\cadastro.css",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-17T19:54:40.503Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "cadastroPJ.css",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\cadastroPJ.css",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-17T19:48:51.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CadastrarPF.cshtml",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Usuario\\CadastrarPF.cshtml",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\CadastrarPF.cshtml",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Usuario\\CadastrarPF.cshtml",
-              "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\CadastrarPF.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T19:46:54.679Z",
-              "EditorCaption": ""
+              "Title": "perfil.css",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\perfil.css",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
+              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\perfil.css",
+              "ViewState": "AQIAALQBAAAAAAAAAAAQwMoBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-07T17:46:14.969Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
               "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
               "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABhAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T19:48:04.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\appsettings.json",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\appsettings.json",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\appsettings.json",
-              "RelativeToolTip": "Site_SmartComfort\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-17T19:45:01.885Z"
+              "WhenOpened": "2024-11-07T17:35:19.435Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CadastrarPJ.cshtml",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Usuario\\CadastrarPJ.cshtml",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\CadastrarPJ.cshtml",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Usuario\\CadastrarPJ.cshtml",
-              "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\CadastrarPJ.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABhAAAAAAAAAA==",
+              "Title": "Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
+              "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAYwNkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-17T19:36:03.898Z",
+              "WhenOpened": "2024-11-07T17:33:05.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "perfil.css",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\perfil.css",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
-              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\perfil.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-10-14T21:25:45.916Z"
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T17:31:14.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "F:\\SapphireCode_Asp_Net\\E-Commerce-Asp.Net-main\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "DocumentIndex": 3,
+              "Title": "perfil.js",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\perfil.js",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\js\\perfil.js",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\perfil.js",
+              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\js\\perfil.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-07T17:17:52.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-07T17:21:02.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "jquery.mask.min.js",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
+              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-07T17:17:58.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAANMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-07T16:52:49.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IndexProdutos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
+              "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
+              "RelativeToolTip": "Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-13T15:16:43.608Z"
+              "WhenOpened": "2024-11-07T16:52:37.07Z"
             }
           ]
         }

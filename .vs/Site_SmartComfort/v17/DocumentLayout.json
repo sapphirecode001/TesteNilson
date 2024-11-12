@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\",
+  "WorkspaceRootPath": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\3mod\\desktop\\0711\\testenilson\\site_smartcomfort\\views\\usuario\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\views\\usuario\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\perfil.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\3mod\\desktop\\0711\\testenilson\\site_smartcomfort\\wwwroot\\css\\perfil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\css\\perfil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\perfil.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\3mod\\desktop\\0711\\testenilson\\site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\usuario\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\3mod\\desktop\\0711\\testenilson\\site_smartcomfort\\wwwroot\\js\\perfil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\js\\perfil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\js\\perfil.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\3mod\\desktop\\0711\\testenilson\\site_smartcomfort\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\3mod\\desktop\\0711\\testenilson\\site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\3mod\\desktop\\0711\\testenilson\\site_smartcomfort\\wwwroot\\js\\mask\\jquery.mask.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\js\\mask\\jquery.mask.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\js\\mask\\jquery.mask.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\3mod\\desktop\\0711\\testenilson\\site_smartcomfort\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\3mod\\desktop\\0711\\testenilson\\site_smartcomfort\\views\\produto\\indexprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|c:\\users\\kevin\\desktop\\projeto tcc\\testenilson\\site_smartcomfort\\views\\produto\\indexprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{CAD58E66-93BB-45A0-9F63-0F14F78EA528}|Site_SmartComfort\\Site_SmartComfort.csproj|solutionrelative:site_smartcomfort\\views\\produto\\indexprodutos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -52,37 +52,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "perfil.css",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
               "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\perfil.css",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\perfil.css",
               "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\perfil.css",
               "ViewState": "AQIAALQBAAAAAAAAAAAQwMoBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-07T17:46:14.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:46:14.969Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
               "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
               "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\Login.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T17:35:19.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:35:19.435Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Perfil.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
               "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
               "RelativeToolTip": "Site_SmartComfort\\Views\\Usuario\\Perfil.cshtml",
-              "ViewState": "AQIAAMwAAAAAAAAAAAAYwNkAAAAWAAAA",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAYwNkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-07T17:33:05.642Z",
               "EditorCaption": ""
@@ -91,79 +89,73 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Site_SmartComfort\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAEAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T17:31:14.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:31:14.74Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "perfil.js",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\perfil.js",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\perfil.js",
               "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\js\\perfil.js",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\perfil.js",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\perfil.js",
               "RelativeToolTip": "Site_SmartComfort\\wwwroot\\js\\perfil.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-07T17:17:52.051Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:17:52.051Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\site.js",
               "RelativeToolTip": "Site_SmartComfort\\wwwroot\\js\\site.js",
               "ViewState": "AQIAACEAAAAAAAAAAAAIwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-07T17:21:02.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:21:02.472Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "jquery.mask.min.js",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
               "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
               "RelativeToolTip": "Site_SmartComfort\\wwwroot\\js\\mask\\jquery.mask.min.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-11-07T17:17:58.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T17:17:58.667Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\style.css",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\style.css",
               "RelativeDocumentMoniker": "Site_SmartComfort\\wwwroot\\css\\style.css",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\wwwroot\\css\\style.css",
               "RelativeToolTip": "Site_SmartComfort\\wwwroot\\css\\style.css",
               "ViewState": "AQIAALoAAAAAAAAAAAAAANMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-07T16:52:49.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T16:52:49.062Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IndexProdutos.cshtml",
-              "DocumentMoniker": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
               "RelativeDocumentMoniker": "Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
-              "ToolTip": "C:\\Users\\3mod\\Desktop\\0711\\TesteNilson\\Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
+              "ToolTip": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
               "RelativeToolTip": "Site_SmartComfort\\Views\\Produto\\IndexProdutos.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T16:52:37.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-07T16:52:37.07Z"
             }
           ]
         }
