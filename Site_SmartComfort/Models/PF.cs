@@ -8,7 +8,6 @@ namespace Site_SmartComfort.Models
         public int IdPF { get; set; }
         public long Cpf { get; set; }
         public string NomeCompleto { get; set; }
-
-        public int IdUsu { get; set; } // Chave estrangeira para a tabela tbUsuario
+        public Usuario Usuario { get; set; } 
     }
 }

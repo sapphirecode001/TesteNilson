@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj",
         "packagesPath": "C:\\Users\\Kevin\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\obj\\",
+=======
+    "C:\\Users\\3mod\\Desktop\\Produção TCC\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\3mod\\Desktop\\Produção TCC\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\3mod\\Desktop\\Produção TCC\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj",
+        "projectName": "Site_SmartComfort",
+        "projectPath": "C:\\Users\\3mod\\Desktop\\Produção TCC\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj",
+        "packagesPath": "C:\\Users\\3mod\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\3mod\\Desktop\\Produção TCC\\TesteNilson\\Site_SmartComfort\\obj\\",
+>>>>>>> origin/main
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",

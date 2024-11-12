@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "2eXyoaUEjNI=",
   "success": true,
   "projectFilePath": "C:\\Users\\Kevin\\Desktop\\Projeto tcc\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj",
+=======
+  "dgSpecHash": "D8d+fhvXO6w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\3mod\\Desktop\\Produção TCC\\TesteNilson\\Site_SmartComfort\\Site_SmartComfort.csproj",
+>>>>>>> origin/main
   "expectedPackageFiles": [
     "C:\\Users\\Kevin\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Kevin\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",
