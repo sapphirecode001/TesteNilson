@@ -35,6 +35,7 @@ EmailUsu varchar(100) not null unique,
 SenhaUsu varchar(30) not null,
 TelefoneUsu1 numeric(11) not null,
 TelefoneUsu2 numeric(11),
+TipoUsu char(2) default 'PF',
 DataCadUsu datetime default current_timestamp(),
 IdEnd int,
 FOREIGN KEY(IdEnd) REFERENCES tbEndereco (IdEnd)
@@ -167,8 +168,8 @@ INSERT INTO tbEndereco (cepEnd, numeroEnd, LogradouroEnd, ComplementoEnd, IdBai,
 VALUES (87654321, 456, 'Avenida Brasil', '', 2, 2, 2);
 
 -- Inserindo usuários
-INSERT INTO tbUsuario (EmailUsu, SenhaUsu, TelefoneUsu1, TelefoneUsu2, IdEnd) 
-VALUES ('user1@example.com', 'senha123', 11987654321, NULL, 1);
+INSERT INTO tbUsuario (EmailUsu, SenhaUsu, TelefoneUsu1, TelefoneUsu2, TipoUsu, IdEnd) 
+VALUES ('user1@example.com', 'senha123', 11987654321, NULL, 'PJ', 1);
 
 INSERT INTO tbUsuario (EmailUsu, SenhaUsu, TelefoneUsu1, TelefoneUsu2, IdEnd) 
 VALUES ('user2@example.com', 'senha456', 21987654321, 21912345678, 2);
@@ -241,6 +242,68 @@ VALUES (7891234567891, 1);
 INSERT INTO tbFavoritos (CodBar, IdUsu) 
 VALUES (7899876543210, 2);
 
+DELIMITER $$
+create PROCEDURE sp_LoginUsuario(
+    IN `p_email` VARCHAR(100),
+    IN `p_senha` VARCHAR(30)
+)
+BEGIN
+    DECLARE tipo_usuario CHAR(2);
+    DECLARE id_usuario INT;
+
+    -- Passo 1: Verificar se o usuário existe na tabela tbUsuario
+    SELECT TipoUsu, IdUsu
+    INTO tipo_usuario, id_usuario
+    FROM tbUsuario
+    WHERE EmailUsu = p_email AND SenhaUsu = p_senha;
+
+    -- Se o usuário não for encontrado, retorna NULL
+    IF tipo_usuario IS NULL THEN
+        SELECT NULL AS IdUsu, NULL AS TipoUsu, NULL AS CPF, NULL AS CNPJ, NULL AS NomeCompleto, NULL AS RazaoSocial;
+        -- Simplesmente termina aqui
+    ELSE
+        -- Passo 2: Buscar dados adicionais dependendo do tipo de usuário
+        IF tipo_usuario = 'PF' THEN
+            -- Buscar dados da tabela PF
+            SELECT u.IdUsu, u.TipoUsu, pf.Cpf, pf.NomeCompleto, u.EmailUsu, u.SenhaUsu, u.TelefoneUsu1, u.TelefoneUsu2, u.DataCadUsu
+            FROM tbUsuario u
+            JOIN tbPF pf ON u.IdUsu = pf.IdUsu
+            WHERE u.IdUsu = id_usuario;
+        ELSEIF tipo_usuario = 'PJ' THEN
+            -- Buscar dados da tabela PJ
+            SELECT u.IdUsu, u.TipoUsu, pj.Cnpj, pj.RazaoSocial, pj.NomeResponsavel, u.EmailUsu, u.SenhaUsu, u.TelefoneUsu1, u.TelefoneUsu2, u.DataCadUsu
+            FROM tbUsuario u
+            JOIN tbPJ pj ON u.IdUsu = pj.IdUsu
+            WHERE u.IdUsu = id_usuario;
+        END IF;
+    END IF;
+END $$
+DELIMITER ;
+
+
+
+Delimiter $$
+create procedure sp_InserirUsuarioPF(
+_NomeCompleto varchar(200),
+_Cpf numeric(11),
+_EmailUsu varchar(100),
+_SenhaUsu varchar(30),
+_TelefoneUsu1 numeric(11),
+_TelefoneUsu2 numeric(11)
+)
+begin
+	declare _IdUsu int;
+    
+    insert into tbUsuario(EmailUsu, SenhaUsu, TelefoneUsu1, TelefoneUsu2, TipoUsu) values
+    (_EmailUsu, _SenhaUsu, _TelefoneUsu1, _TelefoneUsu2, 'PF');
+    
+    set _IdUsu = LAST_INSERT_ID();
+    
+    insert into tbPF(Cpf, NomeCompleto, IdUsu) values
+    (_Cpf, _NomeCompleto, _IdUsu);
+    
+end $$
+
+call sp_InserirUsuarioPF('João Lucas', '35647386453', 'joaolucas@gmail.com', 'senhaforte', '11923453423', '11924356253');
+
 select * from tbUsuario
-select * from tbPJ
-select * from tbPF
